@@ -395,7 +395,7 @@ ALSO NEED TO ADJUST PICTURE
 .timeline-dot {
     height: 21px;
     width: 21px;
-    background-color: black;
+    background-color: rgb(231, 40, 40);
     position: absolute;
     left: calc(50% + -8px);
     border-radius: 50%;
