@@ -745,18 +745,3 @@ ALSO NEED TO ADJUST PICTURE
         left: 0;
     }
 }
-@media only screen
-and (min-device-width: 375px)
-and (max-device-width: 812px)
-and (-webkit-min-device-pixel-ratio: 3) {
-
-    .home-img img {
-        width: 85vw;
-        height: 85vw;
-        margin-top: -20rem;
-        margin-left: 15rem;
-        /* Adjust the size and position according to your needs */
-    }
-
-    /* Add styles for other elements if needed */
-}
